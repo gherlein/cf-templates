@@ -185,4 +185,5 @@ Outputs:
       export SUBNET1="${PublicSubnet1}"
       export SUBNET2="${PublicSubnet2}"
       export SECURITY_GROUP="${VPC.DefaultSecurityGroup}"
-      
+      export ARN_SIM_ROLE="${RoboMakerSimulationRole.Arn}"      
+      export ARN_DEP_ROLE="${RoboMakerDeploymentRole.Arn}"
