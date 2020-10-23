@@ -1,4 +1,5 @@
 #test
+#test
 Parameters:
   EC2InstanceType:
     Default: t2.micro
