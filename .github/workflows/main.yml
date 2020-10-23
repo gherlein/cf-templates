@@ -1,4 +1,4 @@
-name: CI
+name: CopyToS3
 on: [push]
 jobs:
   build:
